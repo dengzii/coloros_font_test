@@ -1,17 +1,7 @@
-# coloros_font_issues
+# coloros_font_test
 
-A new Flutter project.
+Flutter 应用在某些 ColorOS 版本上会出现中文字体是 Serif 字体（衬线风格字体）的情况
 
-## Getting Started
+安装测试应用 https://github.com/dengzii/coloros_font_test/releases/tag/1.0.0 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+打开 app 首页看见系统默认字体在中文和英文的演示，点击选择框查看系统所有字体，选中后即可查看字体样式
